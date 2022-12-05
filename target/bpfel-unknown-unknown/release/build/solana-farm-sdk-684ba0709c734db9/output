@@ -1,0 +1,7 @@
+cargo:rerun-if-env-changed=MAIN_ROUTER_ID
+cargo:rerun-if-env-changed=MAIN_ROUTER_ADMIN
+cargo:rerun-if-env-changed=ZERO_ID
+cargo:rerun-if-env-changed=DAO_TOKEN_NAME
+cargo:rerun-if-env-changed=DAO_PROGRAM_NAME
+cargo:rerun-if-env-changed=DAO_MINT_NAME
+cargo:rerun-if-env-changed=DAO_CUSTODY_NAME

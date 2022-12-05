@@ -1,0 +1,1 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/solana-farm-stats: /home/ska/workspace/work/solana-program-library/farms/farm-rpc/src/stats/collector.rs /home/ska/workspace/work/solana-program-library/farms/farm-rpc/src/stats/fund_stats.rs /home/ska/workspace/work/solana-program-library/farms/farm-rpc/src/stats/main.rs

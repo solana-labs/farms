@@ -1,0 +1,164 @@
+cargo:rerun-if-env-changed=CARGO_FEATURE_PURE
+cargo:rerun-if-env-changed=CARGO_FEATURE_NO_NEON
+TARGET = Some("x86_64-unknown-linux-gnu")
+HOST = Some("x86_64-unknown-linux-gnu")
+cargo:rerun-if-env-changed=CC_x86_64-unknown-linux-gnu
+CC_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CC_x86_64_unknown_linux_gnu
+CC_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-unknown-linux-gnu
+CFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_unknown_linux_gnu
+CFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,llvm14-builtins-abi,sse,sse2")
+cargo:rerun-if-env-changed=CC_x86_64-unknown-linux-gnu
+CC_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CC_x86_64_unknown_linux_gnu
+CC_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-unknown-linux-gnu
+CFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_unknown_linux_gnu
+CFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,llvm14-builtins-abi,sse,sse2")
+cargo:rerun-if-env-changed=CARGO_FEATURE_PREFER_INTRINSICS
+cargo:rerun-if-env-changed=CARGO_FEATURE_PURE
+cargo:rustc-cfg=blake3_sse2_ffi
+cargo:rustc-cfg=blake3_sse41_ffi
+cargo:rustc-cfg=blake3_avx2_ffi
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-unknown-linux-gnu")
+cargo:rerun-if-env-changed=CC_x86_64-unknown-linux-gnu
+CC_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CC_x86_64_unknown_linux_gnu
+CC_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-unknown-linux-gnu
+CFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_unknown_linux_gnu
+CFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,llvm14-builtins-abi,sse,sse2")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_sse2_x86-64_unix.o" "-c" "c/blake3_sse2_x86-64_unix.S"
+exit status: 0
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_sse41_x86-64_unix.o" "-c" "c/blake3_sse41_x86-64_unix.S"
+exit status: 0
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-o" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_avx2_x86-64_unix.o" "-c" "c/blake3_avx2_x86-64_unix.S"
+exit status: 0
+cargo:rerun-if-env-changed=AR_x86_64-unknown-linux-gnu
+AR_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=AR_x86_64_unknown_linux_gnu
+AR_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+running: "ar" "cq" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/libblake3_sse2_sse41_avx2_assembly.a" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_sse2_x86-64_unix.o" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_sse41_x86-64_unix.o" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_avx2_x86-64_unix.o"
+exit status: 0
+running: "ar" "s" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/libblake3_sse2_sse41_avx2_assembly.a"
+exit status: 0
+cargo:rustc-link-lib=static=blake3_sse2_sse41_avx2_assembly
+cargo:rustc-link-search=native=/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out
+cargo:rerun-if-env-changed=CARGO_FEATURE_PURE
+cargo:rerun-if-env-changed=CARGO_FEATURE_PREFER_INTRINSICS
+cargo:rustc-cfg=blake3_avx512_ffi
+TARGET = Some("x86_64-unknown-linux-gnu")
+OPT_LEVEL = Some("0")
+HOST = Some("x86_64-unknown-linux-gnu")
+cargo:rerun-if-env-changed=CC_x86_64-unknown-linux-gnu
+CC_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CC_x86_64_unknown_linux_gnu
+CC_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CC
+HOST_CC = None
+cargo:rerun-if-env-changed=CC
+CC = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64-unknown-linux-gnu
+CFLAGS_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=CFLAGS_x86_64_unknown_linux_gnu
+CFLAGS_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_CFLAGS
+HOST_CFLAGS = None
+cargo:rerun-if-env-changed=CFLAGS
+CFLAGS = None
+cargo:rerun-if-env-changed=CRATE_CC_NO_DEFAULTS
+CRATE_CC_NO_DEFAULTS = None
+DEBUG = Some("false")
+CARGO_CFG_TARGET_FEATURE = Some("fxsr,llvm14-builtins-abi,sse,sse2")
+running: "cc" "-O0" "-ffunction-sections" "-fdata-sections" "-fPIC" "-m64" "-Wall" "-Wextra" "-std=c11" "-mavx512f" "-mavx512vl" "-o" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_avx512_x86-64_unix.o" "-c" "c/blake3_avx512_x86-64_unix.S"
+exit status: 0
+cargo:rerun-if-env-changed=AR_x86_64-unknown-linux-gnu
+AR_x86_64-unknown-linux-gnu = None
+cargo:rerun-if-env-changed=AR_x86_64_unknown_linux_gnu
+AR_x86_64_unknown_linux_gnu = None
+cargo:rerun-if-env-changed=HOST_AR
+HOST_AR = None
+cargo:rerun-if-env-changed=AR
+AR = None
+running: "ar" "cq" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/libblake3_avx512_assembly.a" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/c/blake3_avx512_x86-64_unix.o"
+exit status: 0
+running: "ar" "s" "/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out/libblake3_avx512_assembly.a"
+exit status: 0
+cargo:rustc-link-lib=static=blake3_avx512_assembly
+cargo:rustc-link-search=native=/home/ska/workspace/work/solana-program-library/farms/target/release/build/blake3-4189729f4be5a3d1/out
+cargo:rerun-if-env-changed=CARGO_FEATURE_NO_NEON
+cargo:rerun-if-env-changed=CARGO_FEATURE_PURE
+cargo:rerun-if-env-changed=CC
+cargo:rerun-if-env-changed=CFLAGS
+cargo:rerun-if-changed=c/blake3_avx2_x86-64_windows_msvc.asm
+cargo:rerun-if-changed=c/blake3_avx2.c
+cargo:rerun-if-changed=c/blake3_sse41.c
+cargo:rerun-if-changed=c/blake3_sse2_x86-64_windows_msvc.asm
+cargo:rerun-if-changed=c/blake3.h
+cargo:rerun-if-changed=c/blake3_avx512_x86-64_unix.S
+cargo:rerun-if-changed=c/blake3_sse2.c
+cargo:rerun-if-changed=c/blake3_sse41_x86-64_windows_gnu.S
+cargo:rerun-if-changed=c/blake3_avx2_x86-64_unix.S
+cargo:rerun-if-changed=c/blake3.c
+cargo:rerun-if-changed=c/test.py
+cargo:rerun-if-changed=c/blake3_sse2_x86-64_windows_gnu.S
+cargo:rerun-if-changed=c/blake3_avx512.c
+cargo:rerun-if-changed=c/blake3_dispatch.c
+cargo:rerun-if-changed=c/blake3_avx512_x86-64_windows_gnu.S
+cargo:rerun-if-changed=c/blake3_portable.c
+cargo:rerun-if-changed=c/example.c
+cargo:rerun-if-changed=c/blake3_sse41_x86-64_windows_msvc.asm
+cargo:rerun-if-changed=c/.gitignore
+cargo:rerun-if-changed=c/blake3_avx512_x86-64_windows_msvc.asm
+cargo:rerun-if-changed=c/README.md
+cargo:rerun-if-changed=c/main.c
+cargo:rerun-if-changed=c/blake3_impl.h
+cargo:rerun-if-changed=c/blake3_avx2_x86-64_windows_gnu.S
+cargo:rerun-if-changed=c/blake3_sse2_x86-64_unix.S
+cargo:rerun-if-changed=c/blake3_sse41_x86-64_unix.S
+cargo:rerun-if-changed=c/Makefile.testing
+cargo:rerun-if-changed=c/blake3_neon.c

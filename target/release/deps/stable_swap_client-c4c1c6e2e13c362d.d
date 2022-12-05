@@ -1,0 +1,11 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/stable_swap_client-c4c1c6e2e13c362d.rmeta: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/fees.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/state.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libstable_swap_client-c4c1c6e2e13c362d.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/fees.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/state.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/stable_swap_client-c4c1c6e2e13c362d.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/fees.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/state.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/error.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/fees.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/instruction.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/stable-swap-client-1.8.1/src/state.rs:

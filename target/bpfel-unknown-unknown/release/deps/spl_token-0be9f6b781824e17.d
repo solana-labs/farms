@@ -1,0 +1,12 @@
+/home/ska/workspace/work/solana-program-library/farms/target/bpfel-unknown-unknown/release/deps/spl_token-0be9f6b781824e17.so: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/native_mint.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/state.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/bpfel-unknown-unknown/release/deps/libspl_token-0be9f6b781824e17.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/native_mint.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/state.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/bpfel-unknown-unknown/release/deps/spl_token-0be9f6b781824e17.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/native_mint.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/state.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/error.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/instruction.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/native_mint.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/processor.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/spl-token-3.2.0/src/state.rs:

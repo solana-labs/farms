@@ -1,0 +1,10 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/borsh_schema_derive_internal-f5d578c1286b665f.rmeta: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/helpers.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/enum_schema.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/struct_schema.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libborsh_schema_derive_internal-f5d578c1286b665f.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/helpers.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/enum_schema.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/struct_schema.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/borsh_schema_derive_internal-f5d578c1286b665f.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/helpers.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/enum_schema.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/struct_schema.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/helpers.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/enum_schema.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/borsh-schema-derive-internal-0.7.2/src/struct_schema.rs:

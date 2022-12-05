@@ -1,0 +1,10 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/solana_stake_program-69a9fde6a8b06631.rmeta: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/config.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_state.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libsolana_stake_program-69a9fde6a8b06631.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/config.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_state.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/solana_stake_program-69a9fde6a8b06631.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/config.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_state.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/config.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_instruction.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-stake-program-1.9.29/src/stake_state.rs:

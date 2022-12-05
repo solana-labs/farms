@@ -1,0 +1,13 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/console-4ca06a8076277d3f.rmeta: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/common_term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/kb.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/unix_term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/utils.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/ansi.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libconsole-4ca06a8076277d3f.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/common_term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/kb.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/unix_term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/utils.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/ansi.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/console-4ca06a8076277d3f.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/common_term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/kb.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/unix_term.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/utils.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/ansi.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/common_term.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/kb.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/term.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/unix_term.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/utils.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/console-0.15.2/src/ansi.rs:

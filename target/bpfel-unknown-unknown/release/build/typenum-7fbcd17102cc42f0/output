@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/ska/workspace/work/solana-program-library/farms/target/bpfel-unknown-unknown/release/build/typenum-7fbcd17102cc42f0/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/ska/workspace/work/solana-program-library/farms/target/bpfel-unknown-unknown/release/build/typenum-7fbcd17102cc42f0/out/op.rs

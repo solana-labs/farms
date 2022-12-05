@@ -1,0 +1,10 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/solana_config_program-5efe8a2494b7ff9e.rmeta: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/date_instruction.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libsolana_config_program-5efe8a2494b7ff9e.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/date_instruction.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/solana_config_program-5efe8a2494b7ff9e.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_instruction.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/date_instruction.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_instruction.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/config_processor.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/solana-config-program-1.9.29/src/date_instruction.rs:

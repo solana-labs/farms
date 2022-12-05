@@ -1,0 +1,12 @@
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libpyth_client-77cef3b5e24e7a82.so: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/entrypoint.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/price_conf.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/instruction.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/libpyth_client-77cef3b5e24e7a82.rlib: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/entrypoint.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/price_conf.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/instruction.rs
+
+/home/ska/workspace/work/solana-program-library/farms/target/release/deps/pyth_client-77cef3b5e24e7a82.d: /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/lib.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/entrypoint.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/error.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/price_conf.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/processor.rs /home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/instruction.rs
+
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/lib.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/entrypoint.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/error.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/price_conf.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/processor.rs:
+/home/ska/.cargo/registry/src/github.com-1ecc6299db9ec823/pyth-client-0.5.0/src/instruction.rs:
